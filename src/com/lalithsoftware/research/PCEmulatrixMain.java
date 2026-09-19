@@ -11,5 +11,7 @@ package com.lalithsoftware.research;
 ///////////////////////////////////////////////////////////////////////////////
 
 public class PCEmulatrixMain  {
-
+    public static void main(String[] args)   {
+         RameshJavaUtils.checkStri
+    }
 }
